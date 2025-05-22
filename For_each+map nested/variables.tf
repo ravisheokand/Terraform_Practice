@@ -1,0 +1,2 @@
+variable "rg_names" {
+}
